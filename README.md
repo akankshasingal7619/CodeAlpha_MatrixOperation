@@ -55,6 +55,6 @@ Enter Your Choice:
 ## 👩‍💻 Author
 **Akanksha Gupta**
 
-B.Tech – Artificial Intelligence & Data Science
+B.Tech – CSE
 
 CodeAlpha Internship
